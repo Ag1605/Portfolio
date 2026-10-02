@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="9" fill="white"/>
+  <text x="24" y="31" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="url(#brand-gradient)">AG</text>
+  <defs>
+    <linearGradient id="brand-gradient" x1="8" y1="36" x2="40" y2="11" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0072ff"/>
+      <stop offset="1" stop-color="#00c6ff"/>
+    </linearGradient>
+  </defs>
+</svg>
