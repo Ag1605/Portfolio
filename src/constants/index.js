@@ -62,7 +62,7 @@ export const courses = [
 
 export const certifications = [
   { name: "Cybersecurity Essential", provider: "Cisco" },
-  { name: "Cybersecurity Associate", provider: "PrepInsta" },
+  { name: "Cybersecurity Associate", provider: "Pregrad" },
   { name: "Machine Learning A–Z: AI, Python", provider: "Udemy" },
   { name: "The Complete Ethical Hacking", provider: "Udemy" },
 ];
